@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>http://api.avatardata.cn/GuoNeiNews/Query?key=0fa998fe9fe74400b5bd96fbe17937f9&amp;page=2&amp;rows=1</string>
+	<string>http://api.avatardata.cn/GuoNeiNews/Query?key=0fa998fe9fe74400b5bd96fbe17937f9&amp;page=3&amp;rows=1</string>
+	<string>http://api.avatardata.cn/GuoNeiNews/Query?key=0fa998fe9fe74400b5bd96fbe17937f9&amp;page=4&amp;rows=1</string>
+</array>
+</plist>
