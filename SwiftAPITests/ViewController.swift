@@ -22,11 +22,11 @@ class ViewController: UIViewController {
            
             print("第一个写入成功")
         }
-        jiexi(infoPlist![1] as! NSString, index: 0) { () -> (Void) in
-            print("第二个写入成功")
+        jiexi(infoPlist![1] as! NSString, index: 1) { () -> (Void) in
+            print("但二个写入成功")
         }
-        jiexi(infoPlist![2] as! NSString, index: 0) { () -> (Void) in
-            print("第三个写入成功")
+        jiexi(infoPlist![2] as! NSString, index: 2) { () -> (Void) in
+           print("但三个写入成功")
            
         }
         

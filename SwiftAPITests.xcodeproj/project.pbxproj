@@ -14,7 +14,6 @@
 		900925DF1ABC441E00AE52C0 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 900925DE1ABC441E00AE52C0 /* ViewController.swift */; };
 		900925E21ABC441E00AE52C0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 900925E01ABC441E00AE52C0 /* Main.storyboard */; };
 		900925E41ABC441E00AE52C0 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 900925E31ABC441E00AE52C0 /* Images.xcassets */; };
-		900925E71ABC441E00AE52C0 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 900925E51ABC441E00AE52C0 /* LaunchScreen.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,7 +37,6 @@
 		900925DE1ABC441E00AE52C0 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		900925E11ABC441E00AE52C0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		900925E31ABC441E00AE52C0 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
-		900925E61ABC441E00AE52C0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
 		900925EC1ABC441E00AE52C0 /* SwiftAPITestsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftAPITestsTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		900925FC1ABC45C200AE52C0 /* SwiftAPITestsBridgingHeader.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SwiftAPITestsBridgingHeader.h; sourceTree = "<group>"; };
 		C198538F1A3076A4A5A44A04 /* Pods-SwiftAPITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SwiftAPITests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-SwiftAPITests/Pods-SwiftAPITests.debug.xcconfig"; sourceTree = "<group>"; };
@@ -99,7 +97,6 @@
 				900925DE1ABC441E00AE52C0 /* ViewController.swift */,
 				900925E01ABC441E00AE52C0 /* Main.storyboard */,
 				900925E31ABC441E00AE52C0 /* Images.xcassets */,
-				900925E51ABC441E00AE52C0 /* LaunchScreen.xib */,
 				900925DA1ABC441E00AE52C0 /* Supporting Files */,
 				900925FC1ABC45C200AE52C0 /* SwiftAPITestsBridgingHeader.h */,
 				1A6BC6171D007A82002D33AC /* text.plist */,
@@ -224,7 +221,6 @@
 			files = (
 				900925E21ABC441E00AE52C0 /* Main.storyboard in Resources */,
 				1A6BC6181D007A82002D33AC /* text.plist in Resources */,
-				900925E71ABC441E00AE52C0 /* LaunchScreen.xib in Resources */,
 				900925E41ABC441E00AE52C0 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -306,14 +302,6 @@
 				900925E11ABC441E00AE52C0 /* Base */,
 			);
 			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		900925E51ABC441E00AE52C0 /* LaunchScreen.xib */ = {
-			isa = PBXVariantGroup;
-			children = (
-				900925E61ABC441E00AE52C0 /* Base */,
-			);
-			name = LaunchScreen.xib;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
